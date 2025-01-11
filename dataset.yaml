@@ -1,0 +1,5 @@
+train: C:/Users/Raja/Desktop/Yolov5/splitted_data/images/train  
+val: C:/Users/Raja/Desktop/Yolov5/splitted_data/images/val
+
+nc: 2  
+names: ['With Helmet', 'Without Helmet'] 
